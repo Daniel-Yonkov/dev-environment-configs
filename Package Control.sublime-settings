@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AlignTab",
+		"All Autocomplete",
+		"Anaconda",
+		"ApacheConf",
+		"Babel",
+		"BracketHighlighter",
+		"Colorsublime",
+		"CSS Snippets",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"ESLint",
+		"Git blame",
+		"GitGutter",
+		"JavaScript Enhancements",
+		"jQuery Snippets pack",
+		"JsPrettier",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"MarkdownPreview",
+		"Material Theme",
+		"Package Control",
+		"PHP Companion",
+		"PHP Completions Kit",
+		"PHP-Twig",
+		"PhpDoc",
+		"PHPGrammar",
+		"PHPSnippets",
+		"SideBarEnhancements",
+		"Splunk Conf File Syntax Highlighting",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"TerminalView"
+	]
+}
